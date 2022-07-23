@@ -1,0 +1,10 @@
+C:\Users\aluno8\source\repos\segundo teste\segundo teste\bin\Debug\segundo teste.exe.config
+C:\Users\aluno8\source\repos\segundo teste\segundo teste\bin\Debug\segundo teste.exe
+C:\Users\aluno8\source\repos\segundo teste\segundo teste\bin\Debug\segundo teste.pdb
+C:\Users\aluno8\source\repos\segundo teste\segundo teste\obj\Debug\segundo teste.csproj.AssemblyReference.cache
+C:\Users\aluno8\source\repos\segundo teste\segundo teste\obj\Debug\segundo_teste.Form1.resources
+C:\Users\aluno8\source\repos\segundo teste\segundo teste\obj\Debug\segundo_teste.Properties.Resources.resources
+C:\Users\aluno8\source\repos\segundo teste\segundo teste\obj\Debug\segundo teste.csproj.GenerateResource.cache
+C:\Users\aluno8\source\repos\segundo teste\segundo teste\obj\Debug\segundo teste.csproj.CoreCompileInputs.cache
+C:\Users\aluno8\source\repos\segundo teste\segundo teste\obj\Debug\segundo teste.exe
+C:\Users\aluno8\source\repos\segundo teste\segundo teste\obj\Debug\segundo teste.pdb
