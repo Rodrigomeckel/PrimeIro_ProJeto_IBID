@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.32602.291
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "segundo teste", "segundo teste\segundo teste.csproj", "{A8C9666A-1DE2-4EE1-AC09-39872D087FE8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lISTA DE PRODUTOS", "segundo teste\lISTA DE PRODUTOS.csproj", "{A8C9666A-1DE2-4EE1-AC09-39872D087FE8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
